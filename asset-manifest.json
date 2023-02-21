@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nike-Store/static/css/main.48b14a15.css",
+    "main.css": "/Nike-Store/static/css/main.0f9c1954.css",
     "main.js": "/Nike-Store/static/js/main.372912c8.js",
     "static/media/clip1.mp4": "/Nike-Store/static/media/clip1.304b450eea58b47bb276.mp4",
     "static/media/clip3.mp4": "/Nike-Store/static/media/clip3.8c4ae69f0a38424b9bf6.mp4",
@@ -43,11 +43,11 @@
     "static/media/fa-v4compatibility.ttf": "/Nike-Store/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
     "static/media/fa-v4compatibility.woff2": "/Nike-Store/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/Nike-Store/index.html",
-    "main.48b14a15.css.map": "/Nike-Store/static/css/main.48b14a15.css.map",
+    "main.0f9c1954.css.map": "/Nike-Store/static/css/main.0f9c1954.css.map",
     "main.372912c8.js.map": "/Nike-Store/static/js/main.372912c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.48b14a15.css",
+    "static/css/main.0f9c1954.css",
     "static/js/main.372912c8.js"
   ]
 }
