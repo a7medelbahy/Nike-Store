@@ -31,7 +31,9 @@ button {
 a {
   text-decoration: none;
 }
-
+img {
+  object-fit: cover !important;
+}
 .main-btn {
   padding: 0.25em 0.5em;
   background-color: white;
