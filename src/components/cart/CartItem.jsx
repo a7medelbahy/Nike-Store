@@ -62,7 +62,7 @@ const CartItem = () => {
           );
         })}
       </div>
-      <div className="total-price position-relative rounded-4 bottom-0  bg-light p-3">
+      <div className="total-price position-relative h-25 d-flex justify-content-center align-items-center flex-column w-100 rounded-4 bottom-0  bg-light p-3">
         <div className="d-flex flex-wrap justify-content-center gap-3 justify-content-md-between align-items-center">
           <h5>SUBTOTAL</h5>
           <h6 className="main-btn text-white bg-black">${totalAmount}</h6>
